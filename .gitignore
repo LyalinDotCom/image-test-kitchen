@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Environment & credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Temporary / scratch files
+*.tmp
+*.bak
+*.log
+request*.json
+gemini-image-*
